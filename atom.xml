@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>存储之道 - 张波</title>
   
-  
+  <subtitle>存储之道</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangbo199471.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://zhangbo199471.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>张波</name>
     
   </author>
   
