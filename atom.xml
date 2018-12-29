@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>存储之道 - 张波</title>
+  
+  <subtitle>存储之道</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.zhangbo1994.com/"/>
+  <updated>2018-12-29T09:47:55.935Z</updated>
+  <id>https://www.zhangbo1994.com/</id>
+  
+  <author>
+    <name>张波</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux内核升级之Centos</title>
+    <link href="https://www.zhangbo1994.com/2018/12/29/linux-nei-he-sheng-ji-zhi-centos/"/>
+    <id>https://www.zhangbo1994.com/2018/12/29/linux-nei-he-sheng-ji-zhi-centos/</id>
+    <published>2018-12-29T22:33:58.000Z</published>
+    <updated>2018-12-29T09:47:55.935Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在工作或者学习中，很多时候我们需要用新的&lt;code&gt;linux&lt;/code&gt;内核来验证一些前沿的技术或者功能，这个时候我们所用的&lt;code&gt;linux&lt;/code&gt;内核太低的话，就需要升级内核了。以下整理了&lt;code&gt;Centos7&lt;/code&gt;升级内核的过程。&lt;/p&gt;
+&lt;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
