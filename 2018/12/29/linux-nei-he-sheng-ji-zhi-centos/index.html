@@ -401,12 +401,15 @@ yum <span class="token function">install</span> bison -y
 </blockquote>
 <h2 id="查看默认启动内核"><a href="#查看默认启动内核" class="headerlink" title="查看默认启动内核"></a>查看默认启动内核</h2><pre class=" language-bash"><code class="language-bash">grub2-editenv list
 </code></pre>
+<div align="center"><img width="500" height="300" src="图1.png/"></div>
+
 <h2 id="查看所有内核"><a href="#查看所有内核" class="headerlink" title="查看所有内核"></a>查看所有内核</h2><pre class=" language-bash"><code class="language-bash"><span class="token function">cat</span> /boot/grub2/grub.cfg <span class="token operator">|</span> <span class="token function">grep</span> menuentry
 </code></pre>
 <h2 id="修改默认内核"><a href="#修改默认内核" class="headerlink" title="修改默认内核"></a>修改默认内核</h2><pre class=" language-bash"><code class="language-bash">grub2-set-default <span class="token string">'CentOS Linux (4.19.6) 7 (Core)'</span>
 </code></pre>
 <h2 id="验证默认启动内核"><a href="#验证默认启动内核" class="headerlink" title="验证默认启动内核"></a>验证默认启动内核</h2><pre class=" language-bash"><code class="language-bash">grub2-editenv list
 </code></pre>
+<div align="center"><img width="500" height="300" src="图2.png/"></div>
 
             </div>
             <hr>
